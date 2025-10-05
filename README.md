@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/sohambanner.jpeg" alt="Soham Rasam — Data Scientist | Data Analyst" width="100%">
+  <img src="sohambanner.jpeg" alt="Soham Rasam — Data Scientist | Data Analyst" width="100%">
 </p>
 
 <!-- Quick links -->

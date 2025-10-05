@@ -80,11 +80,7 @@
   <img height="150" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sohamrasam693&show_icons=true&hide_title=true&hide_border=true&theme=dark&bg_color=00000000">
   <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrasam693&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohamrasam693&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak">
-</p>
 
----
 
 ### Connect
 <p>
@@ -100,6 +96,6 @@
 </p>
 
 <!-- Footer line -->
-<p align="right">
+<p align="center">
   <sub>Built with ❤️ for clarity, not clutter.</sub>
 </p>

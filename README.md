@@ -81,7 +81,7 @@
   <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamrasam693&layout=compact&hide_border=true&theme=dark&bg_color=00000000">
 </p>
 <p align="center">
-  <img height="150" alt="Streak" src="https://streak-stats.demolab.com?user=sohamrasam693&theme=dark&hide_border=true&background=FFFFFF00">
+  <img src="https://streak-stats.demolab.com?user=sohamrasam693&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak">
 </p>
 
 ---
